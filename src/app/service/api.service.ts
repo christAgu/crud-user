@@ -10,7 +10,7 @@ export class ApiService {
 
   //connect front-end to backend
 
-  apiUrl = 'https://app-aeb56b6a-7261-43dc-b071-98a256db6264.cleverapps.io/user//user';
+  apiUrl = 'https://user-crud.cleverapps.io/user';
 
   //get all data
 
