@@ -10,7 +10,7 @@ export class ApiService {
 
   //connect front-end to backend
 
-  apiUrl = 'https://user-crud.cleverapps.io/user';
+  apiUrl = 'https://crud-name.onrender.com/user';
 
   //get all data
 
