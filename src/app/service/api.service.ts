@@ -10,7 +10,7 @@ export class ApiService {
 
   //connect front-end to backend
 
-  apiUrl = 'https://crud-files.onrender.com'
+  apiUrl = 'https://crud-files.onrender.com/user'
 
   //get all data
 
